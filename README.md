@@ -1,7 +1,7 @@
 [![MasterHead](https://cdn.prod.website-files.com/6098e41066be8b2b7cb437cd/6138f319b4825f3c62d7c99b_5%20Ways%20To%20Make%20An%20Animated%20GIF%20Without%20Photoshop.jpg)](https://himanshu-tiwarii.github.io)
 
 <h1 align="center">Hi 👋, I'm Himanshu Tiwari</h1>
-<h3 align="center">A passionate Project Manager</h3>
+<h3 align="center">A Security Operations Analyst</h3>
 
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/9b/31/5e/9b315e7c4430b0717f17b17f35b0b372.gif" />
@@ -12,11 +12,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu-tiwarii&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu-tiwarii" /> </p>
 
-- 🔭 I’m currently working as a **Freelance Project Manager**
+- 🔭 I’m currently working as a **Security Operations Analyst and Administrative Support**
 
-- 🌱 I’m currently learning **AI Project Management Tools**
+- 🌱 I’m currently learning **Generative AI**
 
-- 👯 I’m looking to collaborate on **Wonderful Projects**
+- 👯 I’m looking to collaborate on **AI Projects**
 
 - 💬 Ask me about **How to start as a Project coordinator**
 
