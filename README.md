@@ -1,7 +1,7 @@
 [![MasterHead](https://cdn.prod.website-files.com/6098e41066be8b2b7cb437cd/6138f319b4825f3c62d7c99b_5%20Ways%20To%20Make%20An%20Animated%20GIF%20Without%20Photoshop.jpg)](https://himanshu-tiwarii.github.io)
 
 <h1 align="center">Hi 👋, I'm Himanshu Tiwari</h1>
-<h3 align="center">Security Operations Specialist at RRU</h3>
+<h3 align="center">Security Operations Specialist at Rashtriya Raksha University</h3>
 
 
 <img align="right" alt="Coding" width="400" src="https://imarticus.org/blog/wp-content/uploads/2021/12/djbwgfw.gif" />
