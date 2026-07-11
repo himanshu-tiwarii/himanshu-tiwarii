@@ -1,7 +1,9 @@
 [![MasterHead](https://cdn.prod.website-files.com/6098e41066be8b2b7cb437cd/6138f319b4825f3c62d7c99b_5%20Ways%20To%20Make%20An%20Animated%20GIF%20Without%20Photoshop.jpg)](https://himanshu-tiwarii.github.io)
 
 <h1 align="center">Hi 👋, I'm Himanshu Tiwari</h1>
-<h3 align="center">Security Operations Specialist at Rashtriya Raksha University</h3>
+<h3 align="center">Administrative Assistant
+RRU Security | K9 Unit 
+at Rashtriya Raksha University</h3>
 
 
 <img align="right" alt="Coding" width="400" src="https://imarticus.org/blog/wp-content/uploads/2021/12/djbwgfw.gif" />
@@ -12,7 +14,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu-tiwarii&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu-tiwarii" /> </p>
 
-- 🔭 I’m currently working as a **Security Operations Specialist and Administrative Support**
+- 🔭 I’m currently working as a **Administrative Assistant**
 
 - 🌱 I’m currently learning **Generative AI**
 
